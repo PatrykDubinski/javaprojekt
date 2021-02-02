@@ -1,0 +1,20 @@
+.register {
+  margin-top: 5rem;
+  height: 79vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.register h2 {
+  width: 40%;
+  text-align: center;
+  margin: 0 auto 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 0.2rem solid #06829e;
+}
+
+.error {
+  color: red;
+  text-align: center;
+}

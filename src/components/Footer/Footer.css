@@ -1,0 +1,12 @@
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4rem;
+  background-color: #06829e;
+}
+
+.footer > p {
+  color: #f0ffff;
+}

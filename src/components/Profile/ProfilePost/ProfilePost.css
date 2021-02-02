@@ -1,0 +1,51 @@
+.post button {
+  margin-top: 1rem;
+  width: 5rem;
+  height: 2rem;
+  border: none;
+  font-size: 1rem;
+  color: #f0ffff;
+  cursor: pointer;
+}
+
+.post .editBtn {
+  margin-right: 1.1rem;
+  background-color: #64dd17;
+}
+
+.post .deleteBtn {
+  background-color: #f44336;
+}
+
+.saveBtn {
+  background-color: #03a9f4;
+}
+
+.editing {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.editing input {
+  border: none;
+  padding: 0.5rem;
+  outline: none;
+  margin-bottom: 2rem;
+  border-bottom: 3px solid #dcdcdc;
+  font-size: 1.2rem;
+  color: #aaa;
+}
+
+.editing button {
+  height: 3rem;
+  border: none;
+  width: 20%;
+  background-color: #03a9f4;
+  border-radius: 999px;
+  color: #f0ffff;
+  font-weight: 900;
+  font-size: 1.3rem;
+  cursor: pointer;
+}

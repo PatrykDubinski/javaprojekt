@@ -1,0 +1,11 @@
+.homepage {
+  margin-top: 6rem;
+  height: 79vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.homepage h1 {
+  padding: 1rem;
+}

@@ -1,0 +1,26 @@
+.addPost {
+  margin-top: 5rem;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.addPost h1 {
+  width: 40%;
+  text-align: center;
+  margin: 0 auto 3rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 0.2rem solid #06829e;
+}
+
+.addPost textarea {
+  margin-bottom: 1rem;
+  outline: none;
+}
+
+.error {
+  color: red;
+  text-align: center;
+}
